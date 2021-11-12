@@ -1,0 +1,9 @@
+D:\18578_.net\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\18578_.net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\18578_.net\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\18578_.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\18578_.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\adv.web prog\18577_net\prac 4\UserControl\WebApplication1\bin\WebApplication1.dll
+D:\adv.web prog\18577_net\prac 4\UserControl\WebApplication1\bin\WebApplication1.pdb
+D:\adv.web prog\18577_net\prac 4\UserControl\WebApplication1\obj\Debug\WebApplication1.dll
+D:\adv.web prog\18577_net\prac 4\UserControl\WebApplication1\obj\Debug\WebApplication1.pdb
